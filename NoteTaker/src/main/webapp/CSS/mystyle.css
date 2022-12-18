@@ -1,0 +1,29 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 19-Oct-2022, 2:10:31 pm
+    Author     : admin
+*/
+
+.primary-background{
+    background: pink!important;
+}
+.secondary-background{
+    background: pink;
+}
+
+.center {
+border: 5px solid #FFFF00;
+display: flex;
+justify-content: center;
+}
+.text-footer {
+	text-align: center;
+	padding: 30px 0;
+	font-family: "Ubuntu", sans-serif;
+	display: flex;
+	justify-content: center;
+}
+
