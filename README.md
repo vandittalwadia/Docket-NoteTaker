@@ -17,3 +17,4 @@
 # Update Note..
 
 ![image](https://user-images.githubusercontent.com/73352918/212479674-6144ddc4-ec45-46d7-a5dd-aeb2d1c3aa65.png)
+# Delete Note..
