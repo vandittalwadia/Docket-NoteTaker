@@ -12,3 +12,5 @@
 ![image](https://user-images.githubusercontent.com/73352918/212478984-69a2d5c2-3c10-40ca-a33b-78b71a8aee75.png)
 
 # Add a new Note..
+
+![image](https://user-images.githubusercontent.com/73352918/212479244-6c69d0f0-1c84-40c4-bd1c-1ee93462ad34.png)
